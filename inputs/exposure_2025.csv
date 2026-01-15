@@ -1,0 +1,6 @@
+policy_id,product,region,exposure,premium
+1001,Basic,DXB,1.0,1200
+1002,Basic,AUH,0.5,600
+1003,Premium,DXB,1.0,2500
+1004,Premium,AUH,1.0,2600
+1005,Premium,DXB,0.75,1900
