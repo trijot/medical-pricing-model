@@ -1,6 +1,6 @@
-policy_id,product,region,exposure,premium
-1001,Basic,DXB,1.0,1200
-1002,Basic,AUH,0.5,600
-1003,Premium,DXB,1.0,2500
-1004,Premium,AUH,1.0,2600
-1005,Premium,DXB,0.75,1900
+policy_id,product,region,age,exposure,premium
+1001,Basic,DXB,31,1,1200
+1002,Basic,AUH,35,0.5,600
+1003,Premium,DXB,50,1,2500
+1004,Premium,AUH,55,1,2600
+1005,Premium,DXB,10,0.75,1900
